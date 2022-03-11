@@ -1,4 +1,6 @@
 *.class
 *.log
+target
+.bsp
 hs_err_pid*
 .projectile
